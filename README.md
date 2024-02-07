@@ -54,7 +54,7 @@ We are going to use Alpine Linux for our container, read more at: [Alpine Linux 
    
    <img width="252" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/65c74748-61a4-42e2-b5cf-64dfef929979"><br/><br/>
    
-   - Next it will prompt to select either FRONTEND or BACKEND (Let's select BACKEND)
+   - Next it will prompt to select either FRONTEND or BACKEND (Let's select BACKEND)<br/><br/>
 
    <img width="316" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/5d59ff3f-3aab-4a53-865f-732d2aef647a"><br/><br/>
    
@@ -66,15 +66,15 @@ We are going to use Alpine Linux for our container, read more at: [Alpine Linux 
    - 
    <img width="215" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/f7b8036e-d892-48dd-8eee-5f823f4b0960">
    <br/><br/>
-   <b>Repeat Step 5 and Step 6</b>
+   <b>Repeat Step 5 and Step 6</b><br/><br/>
 
 
 **9. Container Setup: FRONTEND Container**
-    - If it prompt the screen below to complain "Worksapce doesn't exist", click "Open Workspace" 
+    - If it prompt the screen below to complain "Worksapce doesn't exist", click "Open Workspace" <br/><br/>
    
    <img width="252" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/65c74748-61a4-42e2-b5cf-64dfef929979"><br/><br/>
    
-   - Next it will prompt to select either FRONTEND or BACKEND (Let's select FRONTEND)
+   - Next it will prompt to select either FRONTEND or BACKEND (Let's select FRONTEND)<br/><br/>
 
    <img width="323" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/88f89a1a-90c6-4e71-be3f-97f07c895cf7"><br/><br/>
    

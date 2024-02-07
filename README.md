@@ -96,6 +96,9 @@ To create another Frontend Container, we will be repeating Step 5 and Step 6 in 
    
    - VSC will reopen the folder to FRONTEND folder, download, and install the necessary container files. This may take 10-15 minutes depending on your internet speed.
    <br/><br/>
+
+   <img width="959" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/09241417-4020-412d-ad7f-f1a9096635e7"><br/><br/>
+
   
 ## Congratulations! Your setup is complete, and you are ready for Python development!
 

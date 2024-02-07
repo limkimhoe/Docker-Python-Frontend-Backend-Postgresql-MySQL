@@ -1,4 +1,5 @@
-# Dev Container with Docker Compose - Multiple containers (Python Alpine) - Frontend, Backend and PostgreSQL Setup Instructions
+# Dev Container with Docker Compose 
+## - Multiple containers (Python Alpine) - Frontend, Backend and PostgreSQL Setup Instructions
 ### Pre-Requisites: Ensure you have Visual Studio Code (VSC) and Docker installed with Windows Subsystem for Linux (WSL2).
 
 This guide will assist you in setting up a development container that runs Docker and includes a well-defined tool/runtime stack. The container comprises Python, MongoDB, and MySQL databases on an Alpine Linux base, along with Visual Studio Code (VSC) plugins customised to suit our requirements.
@@ -76,7 +77,7 @@ We are going to use Alpine Linux for our container, read more at: [Alpine Linux 
    <img width="323" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/88f89a1a-90c6-4e71-be3f-97f07c895cf7">
    <br/><br/>
    - VSC will reopen the folder to FRONTEND folder, download, and install the necessary container files. This may take 10-15 minutes depending on your internet speed.
-
+   <br/><br/>
   
 ## Congratulations! Your setup is complete, and you are ready for Python development!
 

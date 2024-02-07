@@ -66,10 +66,25 @@ We are going to use Alpine Linux for our container, read more at: [Alpine Linux 
 
    <img width="215" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/f7b8036e-d892-48dd-8eee-5f823f4b0960">
    <br/><br/>
-   <b>Repeat Step 5 and Step 6</b><br/><br/><br/>
 
 
-**9. Container Setup: FRONTEND Container**
+<b>Basically, we will repeat Step 5 and Step 6 in Step 9 and Step 10</b><br/>
+**9. Open Your Project in VSC:**
+   - Open your project folder by clicking File > Open Folder and navigate to your project folder.
+   
+   <img width="240" alt="image" src="https://github.com/limkimhoe/docker-python-mongo-mysql/assets/22229616/5a9578d9-72b4-49be-83b3-01d779f585d2"><br/><br/>
+
+   
+**10. Reopen Container:**
+    - A popup saying "Reopen" should appear in the bottom right corner. If not, follow these steps:
+       - Press F1.
+       - Type "Dev Container: Reopen Container".
+   
+   <img width="360" alt="image" src="https://github.com/limkimhoe/docker-python-mongo-mysql/assets/22229616/bb808168-70f0-4b77-be58-2106e0e5e12f"><br/><br/>
+
+   
+
+**11. Container Setup: FRONTEND Container**
     - If it prompt the screen below to complain "Worksapce doesn't exist", click "Open Workspace" <br/>
    
    <img width="252" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/65c74748-61a4-42e2-b5cf-64dfef929979"><br/><br/>

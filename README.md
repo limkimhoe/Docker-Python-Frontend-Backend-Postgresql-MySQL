@@ -48,7 +48,36 @@ We are going to use Alpine Linux for our container, read more at: [Alpine Linux 
    <img width="360" alt="image" src="https://github.com/limkimhoe/docker-python-mongo-mysql/assets/22229616/bb808168-70f0-4b77-be58-2106e0e5e12f"><br/><br/>
 
    
-**7. Container Setup:Container Setup:**
-    - VSC will reopen the folder, download, and install the necessary container files. This may take 10-15 minutes depending on your internet speed.
+**7. Container Setup: BACKEND Container**
+    - If it prompt the screen below to complain "Worksapce doesn't exist", click "Open Workspace" 
    
-   <img width="453" alt="image" src="https://github.com/limkimhoe/docker-python-mongo-mysql/assets/22229616/2ebe070c-00d5-4463-b8d3-73895bfeecde"><br/><br/>
+   <img width="252" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/65c74748-61a4-42e2-b5cf-64dfef929979">
+<br/><br/>
+   - Next it will prompt to select either FRONTEND or BACKEND (Let's select BACKEND)
+
+   <img width="316" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/5d59ff3f-3aab-4a53-865f-732d2aef647a">
+   <br/><br/>
+   - VSC will reopen the folder to BACKEND folder, download, and install the necessary container files. This may take 10-15 minutes depending on your internet speed.
+
+
+**8. Container Setup: FRONTEND Container**
+   - Open a New Window from VSC
+   <img width="215" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/f7b8036e-d892-48dd-8eee-5f823f4b0960">
+   <br/><br/>
+   <b>Repeat Step 5 and Step 6</b>
+
+**9. Container Setup: FRONTEND Container**
+    - If it prompt the screen below to complain "Worksapce doesn't exist", click "Open Workspace" 
+   
+   <img width="252" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/65c74748-61a4-42e2-b5cf-64dfef929979">
+<br/><br/>
+   - Next it will prompt to select either FRONTEND or BACKEND (Let's select FRONTEND)
+
+   <img width="323" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/88f89a1a-90c6-4e71-be3f-97f07c895cf7">
+   <br/><br/>
+   - VSC will reopen the folder to FRONTEND folder, download, and install the necessary container files. This may take 10-15 minutes depending on your internet speed.
+
+  
+## Congratulations! Your setup is complete, and you are ready for Python development!
+
+    

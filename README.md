@@ -68,7 +68,7 @@ We are going to use Alpine Linux for our container, read more at: [Alpine Linux 
    <br/><br/><br/>
 
 
-Next, we will repeat Step 5 and Step 6 in Step 9 and Step 10<br/><br/>
+To create another Frontend Container, we will be repeating Step 5 and Step 6 in Step 9 and 10<br/><br/>
 
 **9. Open Your Project in VSC:**
    - Open your project folder by clicking File > Open Folder and navigate to your project folder.<br/>

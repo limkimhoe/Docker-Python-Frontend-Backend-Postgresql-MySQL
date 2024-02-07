@@ -65,12 +65,13 @@ We are going to use Alpine Linux for our container, read more at: [Alpine Linux 
    - Open a New Window from VSC<br/>
 
    <img width="215" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/f7b8036e-d892-48dd-8eee-5f823f4b0960">
-   <br/><br/>
+   <br/><br/><br/>
 
 
-<b>Basically, we will repeat Step 5 and Step 6 in Step 9 and Step 10</b><br/>
+Next, we will repeat Step 5 and Step 6 in Step 9 and Step 10<br/><br/>
+
 **9. Open Your Project in VSC:**
-   - Open your project folder by clicking File > Open Folder and navigate to your project folder.
+   - Open your project folder by clicking File > Open Folder and navigate to your project folder.<br/>
    
    <img width="240" alt="image" src="https://github.com/limkimhoe/docker-python-mongo-mysql/assets/22229616/5a9578d9-72b4-49be-83b3-01d779f585d2"><br/><br/>
 

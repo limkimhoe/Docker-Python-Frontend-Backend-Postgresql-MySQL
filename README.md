@@ -58,7 +58,7 @@ We are going to use Alpine Linux for our container, read more at: [Alpine Linux 
 
    <img width="316" alt="image" src="https://github.com/limkimhoe/Docker-Python-Frontend-Backend-Postgresql/assets/22229616/5d59ff3f-3aab-4a53-865f-732d2aef647a"><br/><br/>
    
-   - VSC will reopen the folder to BACKEND folder, download, and install the necessary container files. This may take 10-15 minutes depending on your internet speed.
+   - VSC will reopen the folder to BACKEND folder, download, and install the necessary container files. This may take 10-15 minutes depending on your internet speed.<br/><br/>
 
 
 **8. Container Setup: FRONTEND Container**

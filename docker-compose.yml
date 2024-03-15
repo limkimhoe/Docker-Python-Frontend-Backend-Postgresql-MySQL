@@ -21,9 +21,23 @@ services:
     command: sleep infinity
     links:
       - frontend
+    depends_on:
+      - dbMySQL
+      - dbPostgres
     # ports:
     #   - "5000:5000"
 
+  dbMySQL:
+    image: mysql:5.7
+    
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+      MYSQL_DATABASE: mydatabase
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+    volumes:
+      - mysqldb-data:/var/lib/mysql
+  
   dbPostgres:
     image: postgres:latest
     environment:
@@ -33,7 +47,8 @@ services:
     # ports:
     #   - "5432:5432"
     volumes:
-      - pgdata:/var/lib/postgresql/data
+      - pgdb-data:/var/lib/postgresql/data
 
 volumes:
-  pgdata:
+  mysqldb-data:
+  pgdb-data:
